@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "E-Paper_Watch-Library")(type "KiCad")(uri "${KIPRJMOD}/Libraries/E-Paper_Watch-Library.pretty")(options "")(descr ""))
+)
